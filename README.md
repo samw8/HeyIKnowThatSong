@@ -3,9 +3,8 @@
 A song-guessing game. Pick any artist, hear one second of a random track from their
 catalogue, and try to name it. Every miss buys you more audio: 1s, 2s, 4s, 7s, 11s, 16s.
 
-**Play it:** https://YOUR-USERNAME.github.io/heyiknowthatsong/
+**Play it:** [[https://YOUR-USERNAME.github.io/heyiknowthatsong/](https://samw8.github.io/HeyIKnowThatSong/)](https://samw8.github.io/HeyIKnowThatSong/) 
 
-<!-- Replace the link above once GitHub Pages is live. -->
 
 ## How it works
 

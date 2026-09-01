@@ -5,6 +5,20 @@ catalogue, and try to name it. Every miss buys you more audio: 1s, 2s, 4s, 7s, 1
 
 **Play it:** https://samw8.github.io/HeyIKnowThatSong/
 
+## Why I made it
+
+I built this because of two things I love: music and Wordle. At some point I thought,
+why not just build a combination of the two.
+
+I love hearing new music, and I love trying to guess a song in the least amount of time
+possible. I also love having a daily challenge to come back to, the way Wordle does it.
+The two ideas came together so naturally, and I'm proud of how it turned out.
+
+This is my first time building a project on my own, with some help from Claude along the way.
+
+Music is something that should be adored and preserved, and I hope this adds to that
+in some small way.
+
 ## How it works
 
 - Search any artist, or pick one from the gallery on the front page.

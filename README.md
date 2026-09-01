@@ -3,8 +3,7 @@
 A song-guessing game. Pick any artist, hear one second of a random track from their
 catalogue, and try to name it. Every miss buys you more audio: 1s, 2s, 4s, 7s, 11s, 16s.
 
-**Play it:** [[https://YOUR-USERNAME.github.io/heyiknowthatsong/](https://samw8.github.io/HeyIKnowThatSong/)](https://samw8.github.io/HeyIKnowThatSong/) 
-
+**Play it:** https://samw8.github.io/HeyIKnowThatSong/
 
 ## How it works
 
@@ -35,12 +34,12 @@ No account or API key required.
 
 The knobs are all at the top of the `<script>` block:
 
-| Constant  | What it does                                      |
-|-----------|---------------------------------------------------|
-| `STAGES`  | Seconds unlocked per guess — also sets guess count |
-| `TILES`   | How many artists show in the front-page gallery    |
-| `ARTISTS` | The gallery pool                                   |
-| `BARS`    | Waveform resolution                                |
+| Constant  | What it does                                       |
+|-----------|----------------------------------------------------|
+| `STAGES`  | Seconds unlocked per guess — also sets guess count  |
+| `TILES`   | How many artists show in the front-page gallery     |
+| `ARTISTS` | The gallery pool                                    |
+| `BARS`    | Waveform resolution                                 |
 
 Colours live in the `:root` block at the top of the `<style>` tag.
 
